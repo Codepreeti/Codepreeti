@@ -2,7 +2,7 @@
 - 👀 I’m student of software development.
 - 🌱 I’m currently learning C++ and Web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me big MNC's
+- 📫 How to reach my dream company.
 
 <!---
 Codepreeti/Codepreeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
